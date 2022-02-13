@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Sheena Cook</title>
+    <link>https://tatties.github.io/tags/</link>
+    <description>Recent content in Tags on Sheena Cook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 12 Feb 2022 15:07:28 +0000</lastBuildDate><atom:link href="https://tatties.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>new</title>
+      <link>https://tatties.github.io/tags/new/</link>
+      <pubDate>Sat, 12 Feb 2022 15:07:28 +0000</pubDate>
+      
+      <guid>https://tatties.github.io/tags/new/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bo</title>
+      <link>https://tatties.github.io/tags/bo/</link>
+      <pubDate>Sat, 12 Feb 2022 14:23:49 +0000</pubDate>
+      
+      <guid>https://tatties.github.io/tags/bo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>older</title>
+      <link>https://tatties.github.io/tags/older/</link>
+      <pubDate>Fri, 11 Feb 2022 19:12:44 +0000</pubDate>
+      
+      <guid>https://tatties.github.io/tags/older/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

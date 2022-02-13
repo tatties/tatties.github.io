@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Sheena Cook</title>
+    <link>https://tatties.github.io/categories/</link>
+    <description>Recent content in Categories on Sheena Cook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 12 Feb 2022 15:07:28 +0000</lastBuildDate><atom:link href="https://tatties.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>one</title>
+      <link>https://tatties.github.io/categories/one/</link>
+      <pubDate>Sat, 12 Feb 2022 15:07:28 +0000</pubDate>
+      
+      <guid>https://tatties.github.io/categories/one/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cheese</title>
+      <link>https://tatties.github.io/categories/cheese/</link>
+      <pubDate>Sat, 12 Feb 2022 14:23:49 +0000</pubDate>
+      
+      <guid>https://tatties.github.io/categories/cheese/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gardening</title>
+      <link>https://tatties.github.io/categories/gardening/</link>
+      <pubDate>Fri, 11 Feb 2022 19:20:56 +0000</pubDate>
+      
+      <guid>https://tatties.github.io/categories/gardening/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>older poems</title>
+      <link>https://tatties.github.io/categories/older-poems/</link>
+      <pubDate>Fri, 11 Feb 2022 19:12:44 +0000</pubDate>
+      
+      <guid>https://tatties.github.io/categories/older-poems/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

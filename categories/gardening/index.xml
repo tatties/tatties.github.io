@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gardening on Sheena Cook</title>
+    <link>https://tatties.github.io/categories/gardening/</link>
+    <description>Recent content in gardening on Sheena Cook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Feb 2022 19:20:56 +0000</lastBuildDate><atom:link href="https://tatties.github.io/categories/gardening/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Poem3</title>
+      <link>https://tatties.github.io/post/poem3/</link>
+      <pubDate>Fri, 11 Feb 2022 19:20:56 +0000</pubDate>
+      
+      <guid>https://tatties.github.io/post/poem3/</guid>
+      <description>&lt;h1 id=&#34;poem-3&#34;&gt;POEM 3&amp;hellip;&lt;/h1&gt;</description>
+    </item>
+    
+    <item>
+      <title>Poem1</title>
+      <link>https://tatties.github.io/post/poem1/</link>
+      <pubDate>Fri, 11 Feb 2022 19:11:17 +0000</pubDate>
+      
+      <guid>https://tatties.github.io/post/poem1/</guid>
+      <description>&lt;h1 id=&#34;poem-one&#34;&gt;Poem ONE&amp;hellip;&lt;/h1&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
